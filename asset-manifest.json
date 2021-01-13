@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/nikhil-accolitedigital/demo-react-app/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/nikhil-accolitedigital/demo-react-app/static/js/main.65a26790.chunk.js",
+    "main.js.map": "/nikhil-accolitedigital/demo-react-app/static/js/main.65a26790.chunk.js.map",
+    "runtime-main.js": "/nikhil-accolitedigital/demo-react-app/static/js/runtime-main.79ec171a.js",
+    "runtime-main.js.map": "/nikhil-accolitedigital/demo-react-app/static/js/runtime-main.79ec171a.js.map",
+    "static/js/2.2376cff8.chunk.js": "/nikhil-accolitedigital/demo-react-app/static/js/2.2376cff8.chunk.js",
+    "static/js/2.2376cff8.chunk.js.map": "/nikhil-accolitedigital/demo-react-app/static/js/2.2376cff8.chunk.js.map",
+    "static/js/3.ab83fe00.chunk.js": "/nikhil-accolitedigital/demo-react-app/static/js/3.ab83fe00.chunk.js",
+    "static/js/3.ab83fe00.chunk.js.map": "/nikhil-accolitedigital/demo-react-app/static/js/3.ab83fe00.chunk.js.map",
+    "index.html": "/nikhil-accolitedigital/demo-react-app/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/nikhil-accolitedigital/demo-react-app/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.2376cff8.chunk.js.LICENSE.txt": "/nikhil-accolitedigital/demo-react-app/static/js/2.2376cff8.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/nikhil-accolitedigital/demo-react-app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79ec171a.js",
+    "static/js/2.2376cff8.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.65a26790.chunk.js"
+  ]
+}
